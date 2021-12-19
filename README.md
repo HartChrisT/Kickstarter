@@ -35,3 +35,5 @@ The percentage of successful outcomes tends to decrease from the higher the goal
 There is no real way to measure the popularity theater/play kickstarter campaign based on the popularity of the play. For example, remakes of already popular plays are likely to get more attention, or atleast be looked into and considered when starting a campaign. Without a number score or some other way to quantify this (ie columns b and c), this can be rather difficult.
 
 - What are some other possible tables and/or graphs that we could create?
+
+If we decide that we want to start a theater campaign during a handful of months during the spring and summer, and are only considering funding goals of less than a certain amount, say $50,000, it may be helful to remake the first to graphs. Also we can remake the outcomes based on goals chart up to 30,000 to only include plays with campaings that launched during those spring and summer months.
