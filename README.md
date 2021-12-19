@@ -28,6 +28,10 @@ The rate of failed outcomes by month throughout the year remain relatively const
 
 - What can you conclude about the Outcomes based on Goals?
 
+The percentage of successful outcomes tends to decrease from the higher the goal amount gets up to a goal amount of around $30,000. It would seem that the other factors that affect success rate tend to matter more for higher goal amounts.
+
 - What are some limitations of this dataset?
+
+There is no real way to measure the popularity theater/play kickstarter campaign based on the popularity of the play. For example, remakes of already popular plays are likely to get more attention, or atleast be looked into and considered when starting a campaign. Without a number score or some other way to quantify this (ie columns b and c), this can be rather difficult.
 
 - What are some other possible tables and/or graphs that we could create?
