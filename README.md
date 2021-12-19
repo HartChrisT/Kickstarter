@@ -21,6 +21,8 @@ In the Outcomes based on Goals part, I had trouble figuring out how to get the r
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+- Theater Outcomes tend to have a higher rate of success in the spring and summer months, when compared with fall and winter. The most successful month being May and then a linear decline thereafter. Therefore, setting a launch date close to the month of May is crucial.
+- The rate of failed outcomes by month throughout the year remain relatively constant when compared to successful outcomes. Based on this observation, one may conclude that people have a higher interest in theater during mid spring to mid summer.
 
 - What can you conclude about the Outcomes based on Goals?
 
